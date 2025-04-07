@@ -1,4 +1,4 @@
-# Beam Analysis under Two-Point Moving Loads (PyQt5 Desktop App)
+# Beam Analysis with Moving Loads (PyQt5 Desktop App)
 
 This Python application provides an interactive graphical user interface (GUI) to analyze simply supported beams subjected to two-point moving loads. Built with **PyQt5** and **Matplotlib**, it calculates support reactions, shear force, and bending moment values, and plots their respective diagrams.
 
